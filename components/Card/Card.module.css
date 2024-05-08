@@ -1,0 +1,14 @@
+.main {
+  border: 2px solid yellowgreen;
+  width: 30%;
+  text-align: center;
+  padding: 1rem;
+}
+
+.done {
+  background-color: green;
+}
+
+.inProgress {
+  background-color: orange;
+}

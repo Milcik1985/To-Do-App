@@ -1,0 +1,10 @@
+.main {
+  background-color: yellowgreen;
+  height: 5rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.main h1 {
+  color: black;
+}
